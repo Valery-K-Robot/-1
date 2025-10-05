@@ -12,6 +12,7 @@ body {
     margin: 15px 0;
     text-align: left;
 }
+
 .book-image img {
     max-width: auto;
     height: 200px;
@@ -19,6 +20,8 @@ body {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease;
 }
+
 .book-image img:hover {
     transform: scale(1.05);
 }
+
